@@ -4,3 +4,5 @@ A list of all the games I made while taking Concordia University's COMP376 Game 
 https://nadiohos.itch.io/joust-arena: A small mechanical test where a player faces endlessly spawning enemies while atop a horse. Created to test how a lunge mechanic/using your player model as a weapon would work, and seeing how it would feel to play as if on horseback.
 
 https://nadiohos.itch.io/lane-defender: A simple game where the player moves between three lanes using the up and down arrows to block enemies from reaching the right side of the screen. The game gets harder as enemy spawn rate and speed increases. An endless game, aim for a high score and enjoy!
+
+https://nadiohos.itch.io/two-worlds: Two characters in two linked worlds. Your decisions affect both their movements simultaneously. Figure out how to make them reach the goal in each puzzle. Made in a team with Charlotte Lauzon, Arthur Guerinault, Quentin Lapierre and Nicholas Adiohos.
