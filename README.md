@@ -6,3 +6,5 @@ https://nadiohos.itch.io/joust-arena: A small mechanical test where a player fac
 https://nadiohos.itch.io/lane-defender: A simple game where the player moves between three lanes using the up and down arrows to block enemies from reaching the right side of the screen. The game gets harder as enemy spawn rate and speed increases. An endless game, aim for a high score and enjoy!
 
 https://nadiohos.itch.io/two-worlds: Two characters in two linked worlds. Your decisions affect both their movements simultaneously. Figure out how to make them reach the goal in each puzzle. Made in a team with Charlotte Lauzon, Arthur Guerinault, Quentin Lapierre and Nicholas Adiohos.
+
+https://clauzon.itch.io/pat-pat-pow: Go back to your school days and relive a classic recess game! Clap twice, then choose your move: reload, block, or fire! Outsmart your opponent and win. 4 Game modes: Classic, Timed, Classic Local Versus and Timed Local Versus.
